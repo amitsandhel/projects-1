@@ -133,7 +133,7 @@ def create_new_functions(console, model, catalog):
     print('hello')
     classtype_function_cost = model.getType("GKFunctionCost")
     dict_catalog_function_cost = catalog.getObjectsByType( classtype_function_cost )
-   
+    #testing something else and 
 
 # Main script to complete the full netowrk import
 def main(argv):
